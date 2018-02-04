@@ -1,11 +1,7 @@
 #!/bin/bash
 
-
-#DATA_FILE_PLAY="/home/pi/tmp/play.cmd"
-#DATA_FILE_LOAD_LIST="/home/pi/tmp/loadList.cmd"
-
-DATA_FILE_PLAY="play.cmd"
-DATA_FILE_LOAD_LIST="loadList.cmd"
+DATA_FILE_PLAY="/home/pi/Desktop/SonosControl/play.cmd"
+DATA_FILE_LOAD_LIST="/home/pi/Desktop/SonosControl/loadList.cmd"
 
 SONOS_BOX_PORT="1400"
 
